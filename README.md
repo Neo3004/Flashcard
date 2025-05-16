@@ -19,3 +19,4 @@ A simple Android flashcard card app built with Kotlin and XML.Users can test the
 1. Clone the repo:
    ```bash
    https://github.com/Neo3004/Flashcard.git
+   https://youty.be/paqjyl_1F9s?si=PzeUutkUrzclK3B4
